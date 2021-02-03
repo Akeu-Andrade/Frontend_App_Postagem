@@ -1,3 +1,3 @@
 # Frontend_App_Postagem
 
-Frontend de um aplicativo/site de postagens
+Frontend de um aplicativo em React de postagens
